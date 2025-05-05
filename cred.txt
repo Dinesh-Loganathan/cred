@@ -1,4 +1,4 @@
 "AadClientId": "609328f3-65db-4fdf-a487-179600e72b55",
-"AadSecret": "uJN8Q~kUgYB-bInt2pm.iA5znffO2UKrMkubeazA",
+"AadSecret": "ii28Q~~n2vp8KvfvOfJ-fWEiUfnSi5epASSJMaee",
 "AadTenantDomain": "winter@x1q0r.onmicrosoft.com",
 "AadTenantId": "6c6b8025-3bde-4d6c-9a4d-145d9e56c10b",
